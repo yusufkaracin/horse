@@ -3,6 +3,11 @@
 This project is under development.
 
 
+## Development
+
+You can go [``development``](https://github.com/ertugrulkeremoglu/horse/tree/development) branch to see the codes and details.
+
+
 ## License
 
 ```
